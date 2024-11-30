@@ -1,0 +1,30 @@
+.logo{
+text-align: center;
+}
+header h1{
+    text-align:center;
+    color:red;
+}
+nav{
+    text-align:center;
+    border:1px solid black;
+}
+nav a{
+    text-decoration:none;
+    padding:50px;
+    color:black;
+    font-family:sans-serif;
+}
+.img{
+    width:200px;
+}
+p,h1{
+    font-family:sans-serif;
+}
+p{
+    font-size:20px;
+}
+footer p{
+    font-size:15px;
+    background-color:yellow;
+}
